@@ -1,4 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+# Author - Ama Appiah-Danquah
+
 
 for digit1 in range(0, 10):
     for digit2 in range(digit1 + 1, 10):
